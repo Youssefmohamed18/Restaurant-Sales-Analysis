@@ -60,7 +60,7 @@ A local restaurant wanted to understand **what drives revenue** — which items 
 
 ## 📈 Dashboard Preview
 
-![Restaurant Sales Dashboard](screenshots/dashboard.png)
+![Restaurant Sales Dashboard](dashboard.png)
 
 ---
 
@@ -84,8 +84,7 @@ A local restaurant wanted to understand **what drives revenue** — which items 
 restaurant-sales-analysis/
 ├── README.md
 ├── restaurant_orders.xlsx       ← Raw + cleaned data with all sheets
-├── screenshots/
-│   └── Dashboard.png                ← Dashboard preview
+├── Dashboard.png                ← Dashboard preview
 ```
 
 ---
