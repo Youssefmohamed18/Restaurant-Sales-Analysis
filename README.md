@@ -83,8 +83,7 @@ A local restaurant wanted to understand **what drives revenue** — which items 
 ```
 restaurant-sales-analysis/
 ├── README.md
-├── data/
-│   └── restaurant_orders.xlsx       ← Raw + cleaned data with all sheets
+├── restaurant_orders.xlsx       ← Raw + cleaned data with all sheets
 ├── screenshots/
 │   └── Dashboard.png                ← Dashboard preview
 ```
