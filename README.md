@@ -60,6 +60,7 @@ A local restaurant wanted to understand **what drives revenue** — which items 
 
 ## 📈 Dashboard Preview
 
+![Restaurant Sales Dashboard](dashboard.png)
 
 ---
 
